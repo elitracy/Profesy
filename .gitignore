@@ -1,0 +1,7 @@
+node_modules
+server/node_modules
+public/node_modules
+public/builds/
+public/.expo
+todo.md 
+.DS_Store
